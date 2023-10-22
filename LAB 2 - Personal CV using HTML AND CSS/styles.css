@@ -1,0 +1,45 @@
+@import
+url('https://fonts.googleapis.com/css2?family=Audiowide&family=Exo+2:wght@900&family=Montserrat:wght@400;500;900&family=Poppins&display=swap');
+body{
+background-color: white;
+color:white;
+font-family: 'Poppins', sans-serif;
+line-height: 1.7;
+}
+h1{
+font-weight: 800;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #1d5b79;
+}
+b{
+font-style: italic;
+}
+.circle{
+list-style-type:circle;
+}
+.square{
+list-style-type: square; 
+}
+.none{
+list-style-type: none;
+}
+.section{
+background-color: #1d5b79;
+height: 200px;
+width: 90%;
+padding: 40px;
+margin: 50px ;
+border-radius: 12px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 
+0.19);
+}
+.edu{
+height: 340px;
+}
+.skills{
+height: 450px;
+}
+h4{
+font-weight: 800;
+font-size: 22px;
+}
