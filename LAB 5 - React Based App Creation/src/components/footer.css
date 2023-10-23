@@ -1,0 +1,27 @@
+.footer-section{
+    background-color: rgb(255, 119, 147);
+    color: black;
+    background-size: cover;
+    height: 40vh;
+    text-align: center;
+}
+.footer-heading{
+    font-weight: bold;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+.footer-img{
+    height: 30px;
+    width: 30px;
+    margin-top: 2%;
+    border-radius: 50px;
+    border: none;
+    color: #FE6A16;
+    background-color: rgb(255, 119, 147);
+}
+.footer-img:hover{
+    background-color: white;
+}
+.footer{
+    gap: 3rem;
+}

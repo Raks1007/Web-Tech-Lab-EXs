@@ -1,0 +1,43 @@
+.info-section{
+    background-color: black;
+    background-size: cover;
+    height: 120vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cards{
+    height: 600px;
+    width: 400px;
+    background-color: transparent;
+    border: 2px solid;
+    border-color: rgb(255, 119, 147);
+    margin-right: 70px;
+    margin-top: 8%;
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+    z-index: 2;
+}
+.info-img{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    height: 260px;
+    width: 380px;
+    border-radius: 12px;
+}
+.info-desc{
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.button1{
+    height: 60px;
+    width: 300px;
+    border-radius: 12px;
+    margin-top: 3%;
+    background-color: rgb(255, 119, 147);
+    color: white;
+}
+.button1:hover{
+    color: black;}

@@ -1,0 +1,24 @@
+
+.home-image{
+    animation: fadein ease 4s;
+    margin-left: 10%;
+    margin-top: 10px;
+    height: 600px;
+    width: 550px;
+}
+.card1{
+    margin-top: 11%;
+    color: white ;
+    text-align: center;
+    z-index: 1;
+    animation: fadein ease 4s;
+}
+.heading1{
+    font-size: 60px;
+    letter-spacing: 2px;
+    margin-bottom: 10%;
+}
+
+.motto{
+    letter-spacing: 1.5px;
+}

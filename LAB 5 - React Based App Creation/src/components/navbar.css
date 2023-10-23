@@ -1,0 +1,32 @@
+.pages{
+    color: white;
+    text-decoration: none;
+}
+.pages:hover{
+    color: pink;
+}
+.main-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5rem;
+    padding: 1.08%;
+    animation: slidefromtop ease 2s;
+}
+.logo{
+    height: 170px;
+    width: 190px;
+    margin-right: 0px;
+    margin-top: 5%;
+}
+.nav-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;   
+}
+.logo-head{
+    color: white;
+    margin-top: 95%;
+    margin-left: 0%;
+}
